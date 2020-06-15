@@ -7,4 +7,5 @@
 
 ## Структура
 
-* [using_systemctl_wsl](https://github.com/valeriistefanyk/work-with-WSL2/blob/master/using_systemctl_wsl.md) - решение проблемы systemctl
+* [Базовые  команды WSL](https://github.com/valeriistefanyk/working-with-WSL2/blob/master/basic-commands-wsl.md)
+* [Использование systemctl_в дистрибутиве](https://github.com/valeriistefanyk/work-with-WSL2/blob/master/using_systemctl_wsl.md)
